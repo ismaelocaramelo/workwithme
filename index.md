@@ -2,7 +2,7 @@
 
 I'm a human who loves software engineering and sports. If I'm not coding, I'm probably cycling, swimming, or running.
 
-![profile](./profile.png)
+![profile](./profile.jpg)
 
 ## My values
 
