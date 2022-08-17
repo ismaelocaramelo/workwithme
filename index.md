@@ -36,6 +36,7 @@ I'm a human who loves software engineering and sports. If I'm not coding, I'm pr
 
 ## Things I love:
 
+- My wife and 2 kids.
 - The beauty of a nice tiny clean code.
 - Helping out colleagues.
 - Do my best on my training days.
