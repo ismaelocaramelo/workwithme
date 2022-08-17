@@ -6,27 +6,28 @@ I'm a human who loves software engineering and sports. If I'm not coding, I'm pr
 
 ## My values
 
-- Kaizen, can we do better?
-- Committed
-- Agility
-- Assertive
-- Honest
+- Kaizen, can we do better?.
+- Committed.
+- Honest.
+- Agility.
+- Assertive.
+
 
 ## Company attributes I care about:
 
-- Flexible work arrangements
-- High-quality codebase
-- Mentorship culture
-- Stable company
-- Work/life balance
+- Flexible work arrangements.
+- High-quality codebase.
+- Mentorship culture.
+- Stable company.
+- Work/life balance.
 
 ## Team & company values I care about:
 
-- Heavily team/collaboration oriented
-- Promotes end-to-end ownership
-- Practices open, honest, and transparent communication
-- Continuous feedback culture
-- Contributes to open source projects
+- Heavily team/collaboration oriented.
+- Promotes end-to-end ownership.
+- Practices open, honest, and transparent communication.
+- Continuous feedback culture.
+- Contributes to open source projects.
 
 ## Things I struggle with:
 
@@ -43,8 +44,8 @@ I'm a human who loves software engineering and sports. If I'm not coding, I'm pr
 - Innovation by reading about current tech trends.
 - Inspiring people with the things I love.
 - Brainstorm about new ideas, innovations, events, and workshops.
-- Read technical books 🏗️
-- Code challenges 🥷
+- Read technical books.
+- Code challenges.
 
 ## My black list Industries:
 
