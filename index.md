@@ -67,5 +67,6 @@ In a consultency, I work with different clients. My experience includes the foll
 - [CV](https://drive.google.com/file/d/1Lxzx4C8SRz72IJW4_jmXEjAptp8_3JaR/view?usp=sharing)
 - [Medium](https://medium.com/@ismael.bakkali)
 - [Twitter](https://twitter.com/iBakkacha)
+- [Old personal web](https://ismaelocaramelo.github.io)
  
 
