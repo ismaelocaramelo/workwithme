@@ -47,7 +47,25 @@ I'm a human who loves software engineering and sports. If I'm not coding, I'm pr
 - Read technical books.
 - Code challenges.
 
-## My black list Industries:
+## Open source:
 
-- Finance
-- Marketing
+- Creator: [React Flexy](https://react-flexy.netlify.app/)
+- Creator & Contributor: [React Form Builder](https://github.com/guidesmiths/react-form-builder)
+
+## Industries I work in the past: 
+
+In a consultency, I work with different clients. My experience includes the following:
+
+- **Finance** (An angular app for a bank)
+- **Healthcare** (A react native app for hydration monitoring for patients at risk for dehydration/overhydration.)
+- **Gas Industry** (An internal react native app for British Gas)
+- **Marketing** (A Nextjs app and microservices for a Marketing agency)
+- **Flight** (A react app to manage all the stock from the warehouse to the destination)
+
+## For more info about me:
+
+- [CV](https://drive.google.com/file/d/1Lxzx4C8SRz72IJW4_jmXEjAptp8_3JaR/view?usp=sharing)
+- [Medium](https://medium.com/@ismael.bakkali)
+- [Twitter](https://twitter.com/iBakkacha)
+ 
+
