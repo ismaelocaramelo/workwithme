@@ -54,7 +54,7 @@ I'm a human who loves software engineering and sports. If I'm not coding, I'm pr
 
 ## Industries I work in the past: 
 
-In a consultency, I work with different clients. My experience includes the following:
+In a consultancy, I work with different clients. My experience includes the following:
 
 - **Finance** (An angular app for a bank)
 - **Healthcare** (A react native app for hydration monitoring for patients at risk for dehydration/overhydration.)
